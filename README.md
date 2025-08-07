@@ -1,1 +1,0 @@
-# mini-resize-image-api
